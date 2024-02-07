@@ -1,0 +1,1 @@
+/home/jupiter/dotfiles/.bashrc
